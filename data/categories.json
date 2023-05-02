@@ -1,0 +1,56 @@
+[
+    {
+      "chefPicture": "https://i.ibb.co/YB4SWxT/licensed-image.jpg",
+      "chefName": "Grant Achatz",
+      "yearsOfExperience": 10,
+      "numOfRecipes": 50,
+      "likes": 1000,
+      "viewRecipesButton": "url/to/view/recipes/button",
+      "chefDetails": "Details about Chef 1"
+    },
+    {
+      "chefPicture": "https://i.ibb.co/QjpTM1T/licensed-image-2.jpg",
+      "chefName": "Ferran Adrià",
+      "yearsOfExperience": 15,
+      "numOfRecipes": 70,
+      "likes": 1500,
+      "viewRecipesButton": "url/to/view/recipes/button",
+      "chefDetails": "Details about Chef 2"
+    },
+    {
+      "chefPicture": "https://i.ibb.co/92Kz5yk/licensed-image-3.jpg",
+      "chefName": "Mario Batali",
+      "yearsOfExperience": 20,
+      "numOfRecipes": 90,
+      "likes": 2000,
+      "viewRecipesButton": "url/to/view/recipes/button",
+      "chefDetails": "Details about Chef 3"
+    },
+    {
+      "chefPicture": "https://i.ibb.co/q9tQvz1/images.jpg",
+      "chefName": "James Beard",
+      "yearsOfExperience": 5,
+      "numOfRecipes": 30,
+      "likes": 500,
+      "viewRecipesButton": "url/to/view/recipes/button",
+      "chefDetails": "Details about Chef 4"
+    },
+    {
+      "chefPicture": "https://i.ibb.co/HgTRHN4/licensed-image-1.jpg",
+      "chefName": "Paul Bocuse",
+      "yearsOfExperience": 8,
+      "numOfRecipes": 40,
+      "likes": 700,
+      "viewRecipesButton": "url/to/view/recipes/button",
+      "chefDetails": "Details about Chef 5"
+    },
+    {
+      "chefPicture": "https://i.ibb.co/hLLVHBT/licensed-image-2.jpg",
+      "chefName": "Anthony Bourdain",
+      "yearsOfExperience": 12,
+      "numOfRecipes": 60,
+      "likes": 1200,
+      "viewRecipesButton": "url/to/view/recipes/button",
+      "chefDetails": "Details about Chef 6"
+    }
+  ]
