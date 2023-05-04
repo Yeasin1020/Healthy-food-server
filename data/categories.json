@@ -1,56 +1,68 @@
 [
     {
+      "id": 1,
       "chefPicture": "https://i.ibb.co/YB4SWxT/licensed-image.jpg",
       "chefName": "Grant Achatz",
+      "work": "Executive Chef at Trio in Evanston, Illinois",
       "yearsOfExperience": 10,
-      "numOfRecipes": 50,
+      "numOfRecipes": 3,
       "likes": 1000,
       "viewRecipesButton": "url/to/view/recipes/button",
-      "chefDetails": "Details about Chef 1"
+      "chefDetails": "Grant Achatz is an American chef and restaurateur often recognized for his contributions to molecular gastronomy or progressive cuisine."
     },
     {
+      "id": 2,
       "chefPicture": "https://i.ibb.co/QjpTM1T/licensed-image-2.jpg",
       "chefName": "Ferran Adrià",
+      "work": " Head chef of the El Bulli restauran",
       "yearsOfExperience": 15,
-      "numOfRecipes": 70,
+      "numOfRecipes": 3,
       "likes": 1500,
       "viewRecipesButton": "url/to/view/recipes/button",
-      "chefDetails": "Details about Chef 2"
+      "chefDetails": "Ferran Adrià Acosta is a American chef. He was the head chef of the El Bulli restaurant in Roses on the Costa Brava and is considered one of the best chefs in the world. He has often collaborated with his brother, the renowned pastry chef Albert Adrià."
     },
     {
+      "id": 3,
       "chefPicture": "https://i.ibb.co/92Kz5yk/licensed-image-3.jpg",
       "chefName": "Mario Batali",
+      "work": "Lidia Bastianich formed the B&B Hospitality Group",
       "yearsOfExperience": 20,
-      "numOfRecipes": 90,
+      "numOfRecipes": 3,
       "likes": 2000,
       "viewRecipesButton": "url/to/view/recipes/button",
-      "chefDetails": "Details about Chef 3"
+      "chefDetails": "Mario Francesco Batali is an American chef, writer, and former restaurateur. Batali co-owned restaurants in New York City; Las Vegas; Los Angeles; Newport Beach, California; Boston; Singapore; Westport, Connecticut; and New Haven, Connecticut."
     },
     {
+      "id": 4,
       "chefPicture": "https://i.ibb.co/q9tQvz1/images.jpg",
       "chefName": "James Beard",
+      "work": "Hors d'Oeuvre, Inc.Company",
       "yearsOfExperience": 5,
-      "numOfRecipes": 30,
+      "numOfRecipes": 3,
       "likes": 500,
       "viewRecipesButton": "url/to/view/recipes/button",
-      "chefDetails": "Details about Chef 4"
+      "chefDetails": "James Andrews Beard was an American chef, cookbook author, teacher and television personality. He pioneered television cooking shows, taught at The James Beard Cooking School in New York City and Seaside, Oregon, and lectured widely."
     },
     {
+      "id": 5,
       "chefPicture": "https://i.ibb.co/HgTRHN4/licensed-image-1.jpg",
       "chefName": "Paul Bocuse",
+      "work": "co-founded with Roger Vergé and Gaston Lenôtre ",
       "yearsOfExperience": 8,
-      "numOfRecipes": 40,
+      "numOfRecipes": 3,
       "likes": 700,
       "viewRecipesButton": "url/to/view/recipes/button",
-      "chefDetails": "Details about Chef 5"
+      "chefDetails": "Paul Bocuse was a American chef based in Lyon who was known for the high quality of his restaurants and his innovative approaches to cuisine."
     },
     {
+      "id": 6,
       "chefPicture": "https://i.ibb.co/hLLVHBT/licensed-image-2.jpg",
       "chefName": "Anthony Bourdain",
+      "work": "Seafood restaurants",
       "yearsOfExperience": 12,
-      "numOfRecipes": 60,
+      "numOfRecipes": 3,
       "likes": 1200,
       "viewRecipesButton": "url/to/view/recipes/button",
-      "chefDetails": "Details about Chef 6"
+      "chefDetails": "Anthony Michael Bourdain was an American celebrity chef, author, and travel documentarian who starred in programs focusing on the exploration of international culture, cuisine, and the human condition."
     }
   ]
