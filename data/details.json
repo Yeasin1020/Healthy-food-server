@@ -21,8 +21,8 @@
     },
     {
       "id": 2,
-      "chefPicture": "https://i.ibb.co/QjpTM1T/licensed-image-2.jpg",
-      "chefName": "Ferran Adrià",
+      "chefPicture": "https://i.ibb.co/W6jk0ZN/licensed-image-3.jpg",
+      "chefName": "Wolfgang Puck",
       "yearsOfExperience": 15,
       "numOfRecipes": 3,
       "likes": 1500,
@@ -37,7 +37,7 @@
       "cookingMethod1": "Lox and bagels traditionally consist of an open-faced bagel topped with cream cheese, thinly sliced red onions, briny capers, and lox.",
       "cookingMethod2": "Make drop biscuits by themselves as a side for dinner, or drop them over a casserole, or even a cobbler for dessert. You can eat them for breakfast with sausage gravy, to sop up your runny eggs, or simply with butter, baking powder, kosher salt, sugar and jam.",
       "cookingMethod3": "Sausage Gravy is one of my all time favorite comfort foods. Its great over biscuits, fried chicken, and even waffles or mashed potatoes! ",
-      "chefDetails": "Ferran Adrià Acosta is a American chef. He was the head chef of the El Bulli restaurant in Roses on the Costa Brava and is considered one of the best chefs in the world. He has often collaborated with his brother, the renowned pastry chef Albert Adrià."
+      "chefDetails": "The name Wolfgang Puck is synonymous with the best of restaurant hospitality and the ultimate in all aspects of the culinary arts. The famed chef has built a brand that encompasses three companies: Wolfgang Puck Fine Dining Group, Wolfgang Puck Catering, and Wolfgang Puck Worldwide, Inc."
     },
     {
       "id": 3,
@@ -81,8 +81,8 @@
     },
     {
       "id": 5,
-      "chefPicture": "https://i.ibb.co/HgTRHN4/licensed-image-1.jpg",
-      "chefName": "Paul Bocuse",
+      "chefPicture": "https://i.ibb.co/sPMhp73/images-1.jpg",
+      "chefName": "David Chang",
       "yearsOfExperience": 8,
       "numOfRecipes": 3,
       "likes": 700,
@@ -97,7 +97,7 @@
       "cookingMethod1": "Our favorite recipe for making a classic apple pie from scratch. This recipe guarantees apple pie with perfectly cooked (not mushy) apples surrounded by a thickened and gently spiced sauce all baked inside a flaky, golden-brown crust.",
       "cookingMethod2": "A quick and easy taco recipe. Just throw the kidney beans, crumbled cottage cheese and your favorite veggies, drizzled with lime juice, sour cream and a green tomatillo salsa. Wrap up this delicious filling in warm taco shells and you are ready with a satisfying meal.",
       "cookingMethod3": "Make drop biscuits by themselves as a side for dinner, or drop them over a casserole, or even a cobbler for dessert. You can eat them for breakfast with sausage gravy, to sop up your runny eggs, or simply with butter, baking powder, kosher salt, sugar and jam.",
-      "chefDetails": "Paul Bocuse was a American chef based in Lyon who was known for the high quality of his restaurants and his innovative approaches to cuisine."
+      "chefDetails": "David Chang is an American restaurateur, author, podcaster, and television personality. He is the founder of the Momofuku restaurant group."
     },
     {
       "id": 6,

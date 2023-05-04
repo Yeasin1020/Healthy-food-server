@@ -8,12 +8,12 @@
       "numOfRecipes": 3,
       "likes": 1000,
       "viewRecipesButton": "url/to/view/recipes/button",
-      "chefDetails": "Grant Achatz is an American chef and restaurateur often recognized for his contributions to molecular gastronomy or progressive cuisine."
+      "chefDetails": "The name Wolfgang Puck is synonymous with the best of restaurant hospitality and the ultimate in all aspects of the culinary arts. The famed chef has built a brand that encompasses three companies: Wolfgang Puck Fine Dining Group, Wolfgang Puck Catering, and Wolfgang Puck Worldwide, Inc."
     },
     {
       "id": 2,
-      "chefPicture": "https://i.ibb.co/QjpTM1T/licensed-image-2.jpg",
-      "chefName": "Ferran Adrià",
+      "chefPicture": "https://i.ibb.co/W6jk0ZN/licensed-image-3.jpg",
+      "chefName": "Wolfgang Puck",
       "work": " Head chef of the El Bulli restauran",
       "yearsOfExperience": 15,
       "numOfRecipes": 3,
@@ -45,14 +45,14 @@
     },
     {
       "id": 5,
-      "chefPicture": "https://i.ibb.co/HgTRHN4/licensed-image-1.jpg",
-      "chefName": "Paul Bocuse",
+      "chefPicture": "https://i.ibb.co/sPMhp73/images-1.jpg",
+      "chefName": "David Chang",
       "work": "co-founded with Roger Vergé and Gaston Lenôtre ",
       "yearsOfExperience": 8,
       "numOfRecipes": 3,
       "likes": 700,
       "viewRecipesButton": "url/to/view/recipes/button",
-      "chefDetails": "Paul Bocuse was a American chef based in Lyon who was known for the high quality of his restaurants and his innovative approaches to cuisine."
+      "chefDetails": "David Chang is an American restaurateur, author, podcaster, and television personality. He is the founder of the Momofuku restaurant group."
     },
     {
       "id": 6,
